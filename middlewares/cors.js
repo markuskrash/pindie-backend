@@ -7,6 +7,7 @@ const allowedCors = [
     'https://markuskrashfrontend.nomorepartiesco.ru/',
     'https://markuskrashfrontend.nomorepartiesco.ru:3000',
     'https://markuskrashfrontend.nomorepartiesco.ru:3000/'
+
 ];
 
 function cors(req, res, next) {
